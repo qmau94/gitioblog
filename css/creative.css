@@ -3,6 +3,42 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+.facebook{
+    padding-left: 15px;
+    padding-right: 15px;
+    }
+.facebook:hover{
+    color: #3B5998;
+}
+.twitter{
+    padding-left: 15px;
+    padding-right: 15px;
+    }
+.twitter:hover{
+    color: #00B6F1;
+}
+.insta{
+    padding-left: 15px;
+    padding-right: 15px;
+    }
+.insta:hover{
+    color: #333333;
+}
+.github{
+    padding-left: 15px;
+    padding-right: 15px;
+    }
+.github:hover{
+    color:#A2208A;
+}
+.linkedin{
+    padding-left: 15px;
+    padding-right: 15px;
+    }
+.linkedin:hover{
+    color:#04669A;
+}
+
 
 html,
 body {
